@@ -1,1 +1,17 @@
+body {
+	/*background-color:#2b1d0c;*/
+    text-align: center;
+  }
+h1,h3{
+    /*color: #eee3c8;*/
+}
+#vizType{
+    width: 250px;
+    /*color:#eee3c8;*/
+}
+
+label {
+    display: inline;
+
+} 
 
